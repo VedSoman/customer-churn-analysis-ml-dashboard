@@ -168,11 +168,4 @@ It highlights how data-driven approaches can help businesses reduce customer chu
 
 ---
 
-## Connect with Me
-
-* LinkedIn: https://www.linkedin.com/in/ved-soman
-* GitHub: https://github.com/VedSoman
-
----
-
 ## If you found this project useful, consider giving it a star!
